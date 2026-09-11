@@ -16,19 +16,19 @@ CampusBoard is a mini full-stack-style project designed to make everyday college
 
 ## ✨ Features
 
-- 📌 Create new campus notices
-- ✏️ Edit existing notices
-- 🗑️ Delete notices
-- ❤️ Like notices
-- 🔎 Search by title, message, or author
-- 🗂️ Filter by category
-- 📱 Responsive design for desktop and mobile
-- ⏳ Loading, empty, and error states
-- ✅ Client-side form validation
-- 🗄️ Supabase PostgreSQL database integration
-- 🔐 Row Level Security policies
-- 🧪 Demo-data fallback when Supabase is not configured
-- 🚀 Automatic deployment to GitHub Pages with GitHub Actions
+- Create new campus notices
+- Edit existing notices
+- Delete notices
+- Like notices
+- Search by title, message, or author
+- Filter by category
+- Responsive design for desktop and mobile
+- Loading, empty, and error states
+- Client-side form validation
+- Supabase PostgreSQL database integration
+- Row Level Security policies
+- Demo-data fallback when Supabase is not configured
+- Automatic deployment to GitHub Pages with GitHub Actions
 
 ## 🛠️ Tech Stack
 
